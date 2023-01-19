@@ -8,4 +8,7 @@ From the [SkillFactory Data Science course](https://skillfactory.ru/data-scienti
 * [Project 1. Game: guess number](https://github.com/Lidiya-cutie/DS_SkillFactory/tree/main/project_1)
 *
 
+## Links to unit
+* [Unit_1. Counter](https://github.com/Lidiya-cutie/DS_SkillFactory/tree/main/unit_counter)
+
 ## Ссылки на резюме
