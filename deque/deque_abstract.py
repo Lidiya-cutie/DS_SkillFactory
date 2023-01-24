@@ -246,3 +246,29 @@ users.rotate(-5)
 user_id = users.pop()
 # Окончание копии предыдущего решения
 print(users.count(user_id))
+
+# Введите свое решение ниже
+from collections import deque
+
+```Напишите функцию brackets(line), которая определяет, является ли последовательность из круглых скобок line правильной.````
+
+def brackets(line):
+    # Напишите тело функции
+    stack = deque()
+    for i in line:
+        if i == "(":
+            stack.append(i)
+        elif i == ")":
+            if len(stack) == 0:
+                return False
+            stack.pop()
+    if len(stack) == 0:
+        return True
+    return False
+
+print(brackets("(()())"))
+# True
+print(brackets(""))
+# True
+print(brackets("(()()))"))
+# False
