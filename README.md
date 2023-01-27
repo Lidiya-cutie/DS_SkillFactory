@@ -10,5 +10,7 @@ From the [SkillFactory Data Science course](https://skillfactory.ru/data-scienti
 
 ## Links to unit
 * [Unit_1. Counter](https://github.com/Lidiya-cutie/DS_SkillFactory/tree/main/unit_counter)
+* [PY_9_Основные методы Numpy](https://github.com/Lidiya-cutie/DS_SkillFactory/tree/main/PY_9_Basic%20methods%20Numpy)
+* [PY_10_Знакомство с пандами](https://github.com/Lidiya-cutie/DS_SkillFactory/tree/main/PY_10_introduction%20to%20Pandas)
 
 ## Ссылки на резюме
